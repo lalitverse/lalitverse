@@ -1,11 +1,11 @@
 # 👋 Hey, I'm Lalit
 
-🚀 Passionate Full Stack Web Developer
-🎨 UI/UX & Modern Web Design Enthusiast
-📚 Currently Learning JavaScript, React & Backend
-⚡ Building Real World Projects
-🧠 Exploring AI & Creative Tech
-🔥 Love creating clean and modern websites
+🚀 Passionate Full Stack Web Developer <br>
+🎨 UI/UX & Modern Web Design Enthusiast<br>
+📚 Currently Learning JavaScript, React & Backend<br>
+⚡ Building Real World Projects<br>
+🧠 Exploring AI & Creative Tech<br>
+🔥 Love creating clean and modern websites<br>
 
 
 ## 🛠️ Tech Stack
