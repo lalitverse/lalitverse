@@ -1,10 +1,10 @@
 # 👋 Hey, I'm Lalit
 
-💻 Full Stack Developer
-🎨 UI/UX & Modern Web Design
-⚡ Building Cool Stuff On The Internet
-🧠 Exploring AI & Creative Tech
-🇯🇵 Learning Japanese
+💻 Full Stack Developer <br>
+🎨 UI/UX & Modern Web Design<br>
+⚡ Building Cool Stuff On The Internet<br>
+🧠 Exploring AI & Creative Tech<br>
+🇯🇵 Learning Japanese<br>
 
 
 ## 🛠️ Tech Stack
@@ -14,9 +14,9 @@ HTML • CSS • JavaScript • React • Node.js • MongoDB
 
 ## 🌌 Current Focus
 
-🎯 Becoming Better Everyday
-🚀 Improving Full Stack Skills
-🔥 Creating Clean & Modern Web Apps
+🎯 Becoming Better Everyday<br>
+🚀 Improving Full Stack Skills<br>
+🔥 Creating Clean & Modern Web Apps<br>
 
 
 ## 📫 Connect With Me
