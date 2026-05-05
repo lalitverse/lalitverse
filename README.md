@@ -18,9 +18,9 @@
 
 ## 🌟 Current Focus
 
-🎯 Focused On Becoming A Better Developer Everyday
-💻 Improving Full Stack Skills
-🇯🇵 Learning Japanese & Exploring New Cultures
+🎯 Focused On Becoming A Better Developer Everyday <br>
+💻 Improving Full Stack Skills<br>
+🇯🇵 Learning Japanese & Exploring New Cultures<br>
 
 
 
