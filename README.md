@@ -7,16 +7,17 @@
 🇯🇵 Learning Japanese<br>
 
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-HTML • CSS • JavaScript • React • Node.js • MongoDB
+🚀 Frontend Development
+HTML • CSS • JavaScript • React
 
+⚙️ Backend & Database
+Node.js • MongoDB
 
-## 🌌 Current Focus
+🛠️ Tools & Platforms
+Git • GitHub • VS Code
 
-🎯 Becoming Better Everyday<br>
-🚀 Improving Full Stack Skills<br>
-🔥 Creating Clean & Modern Web Apps<br>
 
 
 ## 📫 Connect With Me
