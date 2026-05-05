@@ -1,10 +1,10 @@
 # 👋 Hey, I'm Lalit
 
-💻 Full Stack Developer
-🎨 UI/UX & Modern Web Design Enthusiast
-⚡ Building Cool Stuff On The Internet
-🧠 Exploring AI & Creative Tech
-🇯🇵 Learning Japanese
+💻 Full Stack Developer <br>
+🎨 UI/UX & Modern Web Design Enthusiast<br>
+⚡ Building Cool Stuff On The Internet<br>
+🧠 Exploring AI & Creative Tech<br>
+🇯🇵 Learning Japanese<br>
 
 
 
