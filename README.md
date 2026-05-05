@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey, I'm Lalit
 
-<!--
-**lalitverse/lalitverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Full Stack Web Developer
+🎨 UI/UX & Modern Web Design Enthusiast
+📚 Currently Learning JavaScript, React & Backend
+⚡ Building Real World Projects
+🧠 Exploring AI & Creative Tech
+🔥 Love creating clean and modern websites
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+* HTML • CSS • JavaScript
+* React • Node.js
+* Git • GitHub
+* MongoDB
+
+
+## 🌟 Current Focus
+
+* Building NextGen Commerce
+* Improving Full Stack Skills
+* Learning Japanese 🇯🇵
+
+
+## 📫 Connect With Me
+
+📧 [lalithirvey6@gmail.com](mailto:yourmail@gmail.com)
+
+> “It’s not over until I win.” 🎯
