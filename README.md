@@ -10,13 +10,13 @@
 
 ## 🛠️ Tech Stack
 
-🚀 Frontend Development
+🚀 Frontend Development<br>
 HTML • CSS • JavaScript • React
 
-⚙️ Backend & Database
+⚙️ Backend & Database<br>
 Node.js • MongoDB
 
-🛠️ Tools & Platforms
+🛠️ Tools & Platforms<br>
 Git • GitHub • VS Code
 
 
