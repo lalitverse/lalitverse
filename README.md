@@ -1,31 +1,26 @@
 # 👋 Hey, I'm Lalit
 
-🚀 Passionate Full Stack Web Developer <br>
-🎨 UI/UX & Modern Web Design Enthusiast<br>
-📚 Currently Learning JavaScript, React & Backend<br>
-⚡ Building Real World Projects<br>
-🧠 Exploring AI & Creative Tech<br>
-🔥 Love creating clean and modern websites<br>
+💻 Full Stack Developer
+🎨 UI/UX & Modern Web Design
+⚡ Building Cool Stuff On The Internet
+🧠 Exploring AI & Creative Tech
+🇯🇵 Learning Japanese
 
 
 ## 🛠️ Tech Stack
 
-* HTML • CSS • JavaScript
-* React • Node.js
-* Git • GitHub
-* MongoDB
+HTML • CSS • JavaScript • React • Node.js • MongoDB
 
 
-## 🌟 Current Focus
+## 🌌 Current Focus
 
-🎯 Focused On Becoming A Better Developer Everyday <br>
-💻 Improving Full Stack Skills<br>
-🇯🇵 Learning Japanese & Exploring New Cultures<br>
-
+🎯 Becoming Better Everyday
+🚀 Improving Full Stack Skills
+🔥 Creating Clean & Modern Web Apps
 
 
 ## 📫 Connect With Me
 
-📧 [lalithirvey6@gmail.com](mailto:yourmail@gmail.com)
+📧 [lalithirvey6@gmail.com](mailto:lalithirvey6@gmail.com)
 
-> “It’s not over until I win.” 🎯
+> ⚡ “Nah, I’d win.”
