@@ -24,7 +24,6 @@ Git • GitHub • VS Code
 ## 📫 Connect With Me
 
 📧 [lalithirvey6@gmail.com](mailto:lalithirvey6@gmail.com)
-📸 @whynotchotu
 
 
 
