@@ -18,9 +18,10 @@
 
 ## 🌟 Current Focus
 
-* Building NextGen Commerce
-* Improving Full Stack Skills
-* Learning Japanese 🇯🇵
+🎯 Focused On Becoming A Better Developer Everyday
+💻 Improving Full Stack Skills
+🇯🇵 Learning Japanese & Exploring New Cultures
+
 
 
 ## 📫 Connect With Me
